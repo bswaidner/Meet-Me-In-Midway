@@ -13,4 +13,4 @@ This program was designed to complete the above problem.
 The user inputs an integer n, followed by n integers as distances from city to city.
 The program will determine which city shall be named Midway.
 
-Written in C++.
+Written in C++ for a class project at the University of Kentucky.
